@@ -11,6 +11,7 @@ SERDIC Github 레포지토리 생성 규칙 및 공통 가이드 문서
 각 팀별 개별 문서는 별도 확인 바랍니다.
 
 1. [AI Team](./AI_Team_GUIDE.MD)
+2. [WEB Team](./WEB_Team_GUIDE.MD)
 
 ## 📑 목차
 1. [레포지토리 생성 규칙](#레포지토리-생성-규칙)
